@@ -1,0 +1,18 @@
+.block{
+    display: block;
+    color: aqua;
+    font-size: 100px;
+    height: 200PX;
+    border: 2px dotted  green;
+    bottom: 0;
+    right: 0;
+}
+
+.inline{
+    display: inline;
+    color: blueviolet;
+    font-size: 100px;
+    height: 200PX;
+    border: 2PX solid red;
+
+}
